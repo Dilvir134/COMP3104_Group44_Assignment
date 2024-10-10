@@ -1,9 +1,9 @@
 # COMP3104_Group44_Assignment
 
 ## Group Members
-- **Leader:** Pritesh Patel (1023756) - [GitHub](https://github.com/priteshpatel)
-- **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
-- **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
+- **Leader:** Dilvir Singh (101398345) - [GitHub](https://github.com/Dilvir134)
+- **Member 2:** 
+- **Member 3:** 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
