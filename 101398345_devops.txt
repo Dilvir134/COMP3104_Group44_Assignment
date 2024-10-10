@@ -1,0 +1,1 @@
+George Brown College’s COMP3104 DevOps course introduces students to the principles and practices of DevOps, focusing on the integration of development and operations for efficient software delivery. Through hands-on labs, students learn tools like Jenkins, Docker, and Kubernetes, gaining skills in automation, continuous integration, and deployment.
