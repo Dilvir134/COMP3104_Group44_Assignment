@@ -1,6 +1,5 @@
 # COMP3104_Group44_Assignment
 
-# COMP3104_Group1_Assignment
 ## Group Members
 - **Leader:** Pritesh Patel (1023756) - [GitHub](https://github.com/priteshpatel)
 - **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
