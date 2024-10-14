@@ -2,7 +2,7 @@
 
 ## Group Members
 - **Leader:** Dilvir Singh (101398345) - [GitHub](https://github.com/Dilvir134)
-- **Member 2:** 
+- **Member 2:** Dominic Frydryk (101361317) - [Github] (https://github.com/justadom) 
 - **Member 3:** 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
